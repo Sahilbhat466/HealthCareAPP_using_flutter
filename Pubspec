@@ -1,0 +1,28 @@
+            
+      fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        weight: 400
+      
+      fonts:
+    - family: FlowBlock
+      fonts:
+        - asset: assets/fonts/FlowBlock-Regular.ttf
+        weight: 400
+      
+      fonts:
+    - family: Graduate
+      fonts:
+        - asset: assets/fonts/Graduate-Regular.ttf
+        weight: 400
+      
+      fonts:
+    - family: Cambay
+      fonts:
+        - asset: assets/fonts/Cambay-Regular.ttf
+        weight: 400
+      
+      dependencies:
+      flutter_svg : ^0.17.4
+          
